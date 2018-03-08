@@ -1,0 +1,49 @@
+header {
+    margin: 0 auto;
+}
+  
+
+.profile-info img {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 ;
+}
+
+.gallery a {
+    
+    margin: 
+       
+    display inline block;
+     
+}
+
+
+@media all and (min-width: 576px) {
+    .gallery a {
+        width: 31.3%;
+
+   }
+}
+
+
+
+/* Body styling */
+body {
+background-color: #f5deb3
+font-family Helvetica, Arial;
+font-size: 27px;
+font-weight: bold;
+line-height: 4.25em;
+margin:  0 auto;
+padding: 0px 1em
+}
+
+
+/* Logo styling */
+.logo {
+       width: 100%;
+}
+
+
+
+    
