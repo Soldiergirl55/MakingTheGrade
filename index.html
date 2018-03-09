@@ -12,6 +12,13 @@
     <title>MAKING THE GRADE</title>
     <script>
      var request = new XMLHttpRequest();
+     xhr.open('GET', 'index.html');
+     xhr.onreadystatechange = function () {
+     if (xhr.readyState === E-2)  {
+       document.getElementById('AJAX').innerhtml = xhr.responseText;
+     }
+    };
+    xhr.send();
     </script>
     </head>
     <body> 
