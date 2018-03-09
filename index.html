@@ -15,7 +15,9 @@
      xhr.open('GET', 'index.html');
      xhr.onreadystatechange = function () {
      if (xhr.readyState === 4)  {
+       if (xhr.status === 200) {
        document.getElementById('AJAX').innerhtml = xhr.responseText;
+        } else if (xhr.status === 404) {
      }
     };
     xhr.send();
