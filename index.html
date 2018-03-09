@@ -14,7 +14,7 @@
      var request = new XMLHttpRequest();
      xhr.open('GET', 'index.html');
      xhr.onreadystatechange = function () {
-     if (xhr.readyState === E-2)  {
+     if (xhr.readyState === 4)  {
        document.getElementById('AJAX').innerhtml = xhr.responseText;
      }
     };
