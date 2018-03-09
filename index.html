@@ -17,11 +17,10 @@
      if (xhr.readyState === 4)  {
        if (xhr.status === 200) {
        document.getElementById('AJAX').innerhtml = xhr.responseText;
-        } else if (xhr.status === 404) {
-          //file not found
-        } else if (xhr.status === 500) {
-          //server had a problem
+        } else {
+          alert (xhr.statusText);
         }      
+                     
      }
     };
     xhr.send();
