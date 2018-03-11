@@ -44,7 +44,7 @@ main_container
 }
 
 
-//*@media all and (min-width: 576px) {
+/*@media all and (min-width: 576px) {
     .gallery a {
         width: 31.3%;
 
