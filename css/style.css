@@ -1,4 +1,6 @@
-      body {
+ header {
+ 
+ body {
     background-color: tan;
     font-family: Helvetica, Arial;
     font-size: 27px;
@@ -21,7 +23,7 @@ main_container
 
         container_one: 
            width: 30%;
-           margin 0 1%; 
+           margin: 0 1%; 
                             
 
         container_two {
