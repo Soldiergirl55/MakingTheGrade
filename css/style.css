@@ -13,7 +13,7 @@ header {
     
     margin: 
        
-    display inline block;
+    display flex;
      
 }
 
@@ -29,7 +29,7 @@ header {
 
 /* Body styling */
 body {
-background-color: #f5deb3
+background-color: gray;
 font-family Helvetica, Arial;
 font-size: 27px;
 font-weight: bold;
