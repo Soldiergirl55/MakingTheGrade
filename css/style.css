@@ -1,18 +1,17 @@
-      /* Body styling */
-body {
+      body {
     background-color: tan;
-    font-family Helvetica, Arial;
+    font-family: Helvetica, Arial;
     font-size: 27px;
     font-weight: bold;
     line-height: 4.25em;
     margin:  0 auto;
-    padding 0 1em   
+    padding: 0 1em   
 
-    .main_container {
+main_container 
            width: 100%;
-           display: flex;
-           justify-content: center;
-        }
+           display flex 
+           justify-content center
+        
 
      .title_div {
            text-align: center;
@@ -35,22 +34,6 @@ body {
             max-height: 100%;
             margin: 0 ;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .gallery a {
     
