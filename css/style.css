@@ -8,23 +8,23 @@
     padding: 0px 1em   
 
 main_container 
-           width; 100%;
-           display flex 
-           justify-content: center
+           width; 
+           display:flex
+           justify-content center 
         
 
-     .title_div {
-           text-align: center;
-           background-color tan;
-           margin 0 1%;
+     title_div 
+           text-align center;
+           background-color 
+           
             
 
-        .container_one {
-           width: 30%;
-           margin: 0 1%;
-        }                    
+        container_one {
+           width: ;
+           margin  
+                            
 
-        .container_two {
+        container_two {
            width: 30%;
            margin: 0 1%;
         }    
@@ -42,6 +42,7 @@ main_container
     display flex;
      
 }
+
 
 
 /*@media all and (min-width: 576px) {
