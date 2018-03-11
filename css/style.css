@@ -6,8 +6,7 @@ body {
     font-weight: bold;
     line-height: 4.25em;
     margin:  0 auto;
-    padding: 0px 
-    }
+       
 
     .main_container {
            width: 100%;
@@ -46,16 +45,8 @@ body {
 
 
 
-header {
-    margin: 0 auto;
-}
-  
 
-.profile-info img {
-    max-width: 100%;
-    max-height: 100%;
-    margin: 0 ;
-}
+
 
 .gallery a {
     
