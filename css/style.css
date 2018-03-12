@@ -8,12 +8,12 @@
  }  
          .main_container  {
            width: 100%;
-           display flex;
+           display: flex;
            justify-content: center;
   }  
          .title_div {
            text-align: center;
-           background-color tan;
+           background-color: tan;
            margin: 0 1%;
      }       
         .container_one {
