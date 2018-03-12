@@ -5,30 +5,29 @@
     font-size: 27px;
     font-weight: bold;
     line-height: 4.25em;
-    margin:  0 auto;
-    padding: 0px 1em   
+    
+    
  }
-
     .mainContent  {
+           width: 100%
            display: flex;
            justify-content: center;
-    } 
-        
-
-     title_div {
-           text-align center;
-           background-color 
+  }  
+         .title_div {
+           text-align: center
+           background-color: tan;
+           margin 0 3%
      }       
-            
-
-        container_one: {
+        .container_one {
            width: 30%;
            margin: 0 1%; 
+           background-color:tan;
         }                    
 
-        container_two {
+        .container_two {
            width: 30%;
            margin: 0 1%;
+           background-color: tan;
         }    
             
         .profile-info img {
