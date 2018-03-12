@@ -7,6 +7,7 @@
     line-height: 4.25em;
     margin:  0 auto;
     padding: 0px 1em   
+ }
 
     .mainContent  {
            display: flex;
@@ -14,16 +15,16 @@
     } 
         
 
-     title_div 
+     title_div {
            text-align center;
            background-color 
-           
+     }       
             
 
-        container_one: 
+        container_one: {
            width: 30%;
            margin: 0 1%; 
-                            
+        }                    
 
         container_two {
            width: 30%;
@@ -46,7 +47,7 @@
 
 
 
-/*@media all and (min-width: 576px) {
+@media all and (min-width: 576px) {
     .gallery a {
         width: 31.3%;
 
