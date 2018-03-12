@@ -36,7 +36,7 @@
             margin: 0 ;
         }
 
-/*.gallery a {
+.gallery a {
     
     margin: 
        
@@ -46,7 +46,7 @@
 
 
 
-@media all and (min-width: 576px) {
+/*@media all and (min-width: 576px) {
     .gallery a {
         width: 31.3%;
 
