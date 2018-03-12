@@ -4,18 +4,18 @@
     font-family: Helvetica, Arial;
     font-size: 27px;
     font-weight: bold;
-    line-height: 4.25em;
+    line-height: 5.25em;
     
     
  }
     .mainContent  {
            width: 100%
-           display: flex;
+           display flex;
            justify-content: center;
   }  
          .title_div {
            text-align: center
-           background-color: tan;
+           background-color tan;
            margin 0 3% 
      }       
         .container_one {
