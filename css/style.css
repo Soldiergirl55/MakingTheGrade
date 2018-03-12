@@ -8,10 +8,10 @@
     margin:  0 auto;
     padding: 0px 1em   
 
-main_container 
-           width; 
-           display:flex
-           justify-content center 
+    .mainContent  {
+           display: flex;
+           justify-content: center;
+    } 
         
 
      title_div 
