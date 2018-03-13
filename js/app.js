@@ -1,8 +1,22 @@
-if (E-2  PV2) {
-    rank/grade ; "True";
-} else {
-    E-3 ; PFC = "False";
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to display the rank.</p>
+
+<button onclick="displayRank()">The rank is?</button>
+
+<script>
+function displayRank() {
+    document.getElementById("demo").innerHTML = Rank();
 }
+</script>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+
                       
                           
                                         
