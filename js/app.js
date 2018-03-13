@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <p>Click the button to display the rank.</p>
 
@@ -14,8 +12,7 @@ function displayRank() {
 
 <p id="demo"></p>
 
-</body>
-</html> 
+
 
                       
                           
