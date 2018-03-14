@@ -9,7 +9,7 @@ function handle_submission(evt) {
      //Fill in the answer
      fill_in_answer('DID YOU MAKE THE GRADE'?  'SOLDIER'
 
-     var answer_div = document.querySelector('#answers');
+    var answer_div = document.querySelector('#answers');
      answer_div.classList.add('show');
     }
 
