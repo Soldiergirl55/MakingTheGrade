@@ -42,12 +42,12 @@
    .site-logo {
      width: 140px;
   }  
-  .nav {
+  .div {
     margin-top: 3em;
     flex-direction: row;
     justify-content: center;
   }
-  .nav a {
+  .div a {
     border-bottom-color: transparent;
   }
 } 
@@ -55,7 +55,7 @@
 @media (min-width: 1025px) {
 
 }
-.nav li {
+.div li {
   margin-left: .65em;
   margin-right: .65em;
 }
