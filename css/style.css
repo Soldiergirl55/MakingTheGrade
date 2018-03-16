@@ -31,13 +31,7 @@
         
  /* Media Queries */
     
- @supports (display:block) {
-  .myElement { display: block}
-}
-Ofcourse, we can also dectect if something is not supported:
-@supports not (display:flex) {
-  .myElement { display: block}
-}
+ 
  
 
 
