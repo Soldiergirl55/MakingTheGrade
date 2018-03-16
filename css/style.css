@@ -34,9 +34,9 @@
        }        
         
  /* Media Queries */
- @media (min-width: 576px) {
+ @media (min-width: 769px) {
    .main-header {
-     height: 200px;
+     height: 100px;
      justify-content: flex-end; 
    }
    .site-logo {
