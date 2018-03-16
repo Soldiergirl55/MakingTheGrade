@@ -30,13 +30,19 @@
         
         
  /* Media Queries */
-  Smartphones portrait and landscape 
- @media screen and (-webkit-device-pixel-ratio: 1.5), screen and (resolution: 144dpi) {
-  / styles */
- }
+  
    
 
- 
+ #block1, #block2 {
+  float: left;
+  width: 100%;
+}
+
+@media (min-width: 1000px) {
+  #block1, #block2 {
+      width: 50%;
+  }
+}
 
 
             
