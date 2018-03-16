@@ -45,7 +45,7 @@
   .nav {
     margin-top: 3em;
     flex-direction: row;
-    justify-content: space-between
+    justify-content: space-between;
   }
   .nav a {
     border-bottom-color: transparent;
