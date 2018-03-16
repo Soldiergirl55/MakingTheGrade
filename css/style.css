@@ -33,7 +33,21 @@
           background-color:  green;
        }        
         
-        
+ /* Media Queries */
+ @media (min-width: 769px) {
+   .main-header {
+     height: 200px;
+   }
+   .site-logo {
+     width: 140px;
+  }  
+  .nav {
+    margin-top: 3em;
+  }
+  .nav a {
+    border-bottom-color: transparent;
+  }
+} 
             
             
         
