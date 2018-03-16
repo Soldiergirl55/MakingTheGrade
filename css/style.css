@@ -37,14 +37,15 @@
  @media (min-width: 769px) {
    .main-header {
      height: 200px;
+     justify-content: flex-end; 
    }
    .site-logo {
      width: 140px;
   }  
   .nav {
     margin-top: 3em;
-    flex-direction: column;
-    
+    flex-direction: row;
+    justify-content: space-between
   }
   .nav a {
     border-bottom-color: transparent;
