@@ -44,7 +44,7 @@
   }  
   .div {
     margin-top: 3em;
-    flex-direction: row;
+    flex-direction: wrap;
     justify-content: center;
   }
   .div a {
