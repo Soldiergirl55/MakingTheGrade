@@ -34,7 +34,7 @@
        }        
         
  /* Media Queries */
- @media (min-width: 769px) {
+ @media (min-width: 576px) {
    .main-header {
      height: 200px;
      justify-content: flex-end; 
