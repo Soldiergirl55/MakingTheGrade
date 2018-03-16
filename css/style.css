@@ -17,13 +17,13 @@
            margin: 0 1%;
      }       
         .container_one {
-           width: 30%;
+           width: 100%;
            margin: 0 1%; 
            background-color:tan;
         }                    
 
         .container_two {
-           width: 100%;
+           width: 30%;
            margin: 0 1%;
            background-color: tan;
         }    
