@@ -43,6 +43,7 @@
   }  
   .nav {
     margin-top: 3em;
+    flex-direction: row;
   }
   .nav a {
     border-bottom-color: transparent;
