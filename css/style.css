@@ -35,12 +35,12 @@
         
  /* Media Queries */
   Smartphones portrait and landscape 
- @media screen and (min-width: 320px) and (max-width: 480) {
+ @media screen and (-webkit-device-pixel-ratio: 1.5), screen and (resolution: 144dpi) {
   / styles */
  }
    
 
-
+ 
 
 
             
