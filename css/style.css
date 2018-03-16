@@ -37,7 +37,7 @@
  @media (min-width: 769px) {
    .main-header {
      height: 100px;
-     justify-content: flex-end; 
+     justify-content: center; 
    }
    .site-logo {
      width: 140px;
@@ -45,7 +45,7 @@
   .nav {
     margin-top: 3em;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
   }
   .nav a {
     border-bottom-color: transparent;
