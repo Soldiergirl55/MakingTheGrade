@@ -18,7 +18,7 @@
            margin: 0 1%;
      } 
      .checkImage {
-      width: 15%; /*or whatever you deem best! */
+      width: -15%; /*or whatever you deem best! */
       height: auto;
     }
       /* This is
