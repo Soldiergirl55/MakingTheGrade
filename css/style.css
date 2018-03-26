@@ -16,7 +16,11 @@
            /* This is a single-line comment */
            background-color: tan;
            margin: 0 1%;
-     
+         }
+         .checkImage {
+          width: 50%; /*or whatever you deem best! */
+          height: auto;
+        }
       /* This is
         a multi-line
         comment */     
