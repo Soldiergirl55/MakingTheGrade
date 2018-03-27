@@ -6,9 +6,7 @@ function handle_submission(evt) {
      var answers = {    
          'show me': get_answer('DID YOU MAKE THE GRADE?  SOLDIER')
      }
-     //Fill in the answer
-    'DID YOU MAKE THE GRADE'?  'SOLDIER'
-
+     
     var answer_div = document.querySelector('#answers'); 
      answer_div.classList.add('show');
     }
